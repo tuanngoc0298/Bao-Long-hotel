@@ -4,8 +4,6 @@ Welcome to Red River Gorge Hotel Management Application documentation. Red River
 
 The purpose of this project is to implement my advanced <b>Javascript</b>,<strong>Typescript</strong> and <strong>Database Query</strong> skills in a web application and bring it to reality. Moreover, further enhance my knowledge of <strong>ReactJs</strong>.
 
-I believe the best approach to learning something new is <strong>"Learning by Doing"</strong>.
-
 ## 🎮 Demo Account
 
 You can access our application using the following demo account:
@@ -55,38 +53,6 @@ You can access our application using the following demo account:
   - Users able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking
 
 - App dark mode.
-
-## Demonstration 🖥️
-
-#### Login Page :
-
-![wildoasisLogin](https://github.com/lgope/the-wild-oasis/assets/58518192/32549a90-efa9-47e2-be2d-8a255d073ec3)
-
-#### Dashboard Page
-
-![wildoasis1](https://github.com/lgope/the-wild-oasis/assets/58518192/75d7ea1f-bb3f-4527-9e04-9ceab994abed)
-
-![wildoasis1 1](https://github.com/lgope/the-wild-oasis/assets/58518192/58dc1b1a-6bd9-4a7a-a428-897e4d418385)
-
-#### Dark Theme Preview
-
-![wildoasisTheme](https://github.com/lgope/the-wild-oasis/assets/58518192/45b21b65-f9df-4dbc-b108-f111faac6cd1)
-
-#### Bookings Details
-
-![wildoasis2](https://github.com/lgope/the-wild-oasis/assets/58518192/4dad0d42-94c8-42ae-bab7-ee7862ac531f)
-
-#### Cabins Details
-
-![wildoasis3](https://github.com/lgope/the-wild-oasis/assets/58518192/e0acd446-90f6-4e61-af42-44a65f96cba2)
-
-#### Users Profile Update Page
-
-![wildoasis4](https://github.com/lgope/the-wild-oasis/assets/58518192/d52db1f4-447b-4173-8ffd-5bc4b53d37de)
-
-#### Application Settings Page
-
-![wildoasis5](https://github.com/lgope/the-wild-oasis/assets/58518192/2276ca93-d511-4c3b-8ea9-319837b8e4dd)
 
 ## 💻 Technology Used
 
@@ -146,27 +112,6 @@ http://localhost:5173 or Your Local URL
 4. NodeJs, ExpressJs (Back-end)
 5. Supabase (Database)
 
-## Contributing 💡
-
-Pull requests are welcome but please open an issue and discuss what you will do before 😊
-
-## Known Bugs 🚨
-
-Feel free to email me at tuanngoc0298@gmail.com if you run into any issues or have questions, ideas or concerns.
-Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
-
-## Future Updates 🪴
-
-- Enable PWA
-- Improve overall UX/UI and fix bugs
-- Featured Tours
-- Recently Viewed Tours
-- And More! There's always room for improvement!
-
-## License 📄
-
-This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
-
 ## Deployed Version 🚀
 
-Live demo (Feel free to visit) 👉🏻 : https://red-river-gorge.netlify.app/
+Live demo (Feel free to visit) 👉🏻 : https://red-river-gorge.vercel.app/
