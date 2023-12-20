@@ -38,6 +38,7 @@ const StyledList = styled.ul`
   background-color: var(--color-grey-0);
   box-shadow: var(--shadow-md);
   border-radius: var(--border-radius-md);
+  white-space: nowrap;
 `;
 
 const StyledButton = styled.button`
