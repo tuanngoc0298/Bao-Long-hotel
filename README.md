@@ -4,10 +4,6 @@ Welcome to Red River Gorge Hotel Management Application documentation. Red River
 
 The purpose of this project is to implement my advanced <b>Javascript</b>,<strong>Typescript</strong> and <strong>Database Query</strong> skills in a web application and bring it to reality. Moreover, further enhance my knowledge of <strong>ReactJs</strong>.
 
-# <<<<<<< HEAD
-
-> > > > > > > d31e10a1658dafbb3ed0ed5c710994932d5fb0c2
-
 ## 🎮 Demo Account
 
 You can access our application using the following demo account:
@@ -57,10 +53,6 @@ You can access our application using the following demo account:
   - Users able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking
 
 - App dark mode.
-
-# <<<<<<< HEAD
-
-> > > > > > > d31e10a1658dafbb3ed0ed5c710994932d5fb0c2
 
 ## 💻 Technology Used
 
@@ -119,10 +111,6 @@ http://localhost:5173 or Your Local URL
 3. Styled Component (Styling)
 4. NodeJs, ExpressJs (Back-end)
 5. Supabase (Database)
-
-# <<<<<<< HEAD
-
-> > > > > > > d31e10a1658dafbb3ed0ed5c710994932d5fb0c2
 
 ## Deployed Version 🚀
 
