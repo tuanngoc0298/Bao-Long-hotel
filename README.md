@@ -4,7 +4,7 @@ Welcome to Red River Gorge Hotel Management Application documentation. Red River
 
 The purpose of this project is to implement my advanced <b>Javascript</b>,<strong>Typescript</strong> and <strong>Database Query</strong> skills in a web application and bring it to reality. Moreover, further enhance my knowledge of <strong>ReactJs</strong>.
 
-I believe the best approach to learning something new is <strong>"Learning by Doing"</strong>.
+
 
 ## 🎮 Demo Account
 
@@ -115,24 +115,6 @@ http://localhost:5173 or Your Local URL
 4. NodeJs, ExpressJs (Back-end)
 5. Supabase (Database)
 
-## Contributing 💡
-
-Pull requests are welcome but please open an issue and discuss what you will do before 😊
-
-## Known Bugs 🚨
-
-Feel free to email me at tuanngoc0298@gmail.com if you run into any issues or have questions, ideas or concerns.
-Please enjoy and feel free to share your opinion, constructive criticism, or comments about my work. Thank you! 🙂
-
-## Future Updates 🪴
-
-- Enable PWA
-- Improve overall UX/UI and fix bugs
-- Featured Tours
-- Recently Viewed Tours
-- And More! There's always room for improvement!
-
-## License 📄
 
 This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
 
