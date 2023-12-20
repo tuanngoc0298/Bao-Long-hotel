@@ -116,8 +116,6 @@ http://localhost:5173 or Your Local URL
 5. Supabase (Database)
 
 
-This project is open-sourced under the [MIT license](https://opensource.org/licenses/MIT).
-
 ## Deployed Version 🚀
 
-Live demo (Feel free to visit) 👉🏻 : https://red-river-gorge.netlify.app/
+Live demo (Feel free to visit) 👉🏻 : https://red-river-gorge.vercel.app/
