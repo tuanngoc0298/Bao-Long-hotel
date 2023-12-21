@@ -5,12 +5,14 @@
 # Red River Gorge
 
 </div>
+
 <div style="text-align: justify;">
 Red River Gorge là một ứng dụng quản lý khách sạn thân thiện với người dùng. Ứng dụng này được thiết kế để quản lý hoạt động của khách sạn, bao gồm thống kê bán hàng, quản lý cabin, quản lý người dùng, quản lý đặt phòng và các tùy chọn tùy chỉnh khác nhau. Nó tích hợp tính năng xác thực, lưu trữ cơ sở dữ liệu và chế độ tối.
 
 Mục đích của dự án này là triển khai các kỹ năng <b>Javascript</b>,<strong>Typescript</strong> và <strong>Truy vấn cơ sở dữ liệu</strong> nâng cao trong một ứng dụng web. Hơn nữa, giúp tôi nâng cao kiến thức về <strong>ReactJs</strong>.
 
 </div>
+
 ## 🎮 Tài khoản DEMO
 
 Bạn có thể truy cập ứng dụng thông qua tài khoản sau:
