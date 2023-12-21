@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" style="text-align: justify;">
 
 ![logo-dark](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/496dd179-5fb5-4bae-ab16-153bf4a0f1b2)
 
