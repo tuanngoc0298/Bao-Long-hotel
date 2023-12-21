@@ -1,84 +1,122 @@
 # Red River Gorge
 
-Welcome to Red River Gorge Hotel Management Application documentation. Red River Gorge is a user friendly hotel management application. This application is designed to manage hotel operations, including sales statistics, cabin management, user management, booking management, and various customization options. It integrates authentication, database storage, and dark mode features. And so much more!
+Red River Gorge là một ứng dụng quản lý khách sạn thân thiện với người dùng. Ứng dụng này được thiết kế để quản lý hoạt động của khách sạn, bao gồm thống kê bán hàng, quản lý cabin, quản lý người dùng, quản lý đặt phòng và các tùy chọn tùy chỉnh khác nhau. Nó tích hợp tính năng xác thực, lưu trữ cơ sở dữ liệu và chế độ tối. Và nhiều hơn nữa!
 
-The purpose of this project is to implement my advanced <b>Javascript</b>,<strong>Typescript</strong> and <strong>Database Query</strong> skills in a web application and bring it to reality. Moreover, further enhance my knowledge of <strong>ReactJs</strong>.
+Mục đích của dự án này là triển khai các kỹ năng <b>Javascript</b>,<strong>Typescript</strong> và <strong>Truy vấn cơ sở dữ liệu</strong> nâng cao của tôi trong một ứng dụng web. Hơn nữa, nâng cao hơn nữa kiến thức của tôi về <strong>ReactJs</strong>.
 
-## 🎮 Demo Account
+## 🎮 Tài khoản DEMO
 
-You can access our application using the following demo account:
+Bạn có thể truy cập ứng dụng thông qua tài khoản sau:
 
 - **Email Address** : `test@example.com`
 - **Password** : `tuanngoc0298`
 
-## Key Features 📝
+## Các tính năng chính 📝
 
-- Authentication and Authorization
+- Authentication và Authorization
 
-  - Users of the app are hotel employees. They can logged in into the application to perform tasks.
-  - New users can only be signed up inside the applications (to guarantee that only actual hotel employees can get accounts).
-  - Users able to upload an avatar, and change their name and password
+  - Người dùng ứng dụng là nhân viên khách sạn. Họ có thể đăng nhập vào ứng dụng để thực hiện tasks.
+  - Người dùng mới chỉ có thể được đăng ký bên trong ứng dụng (để đảm bảo rằng chỉ nhân viên thực tế của khách sạn mới có thể nhận được tài khoản).
+  - Người dùng có thể tải lên hình đại diện và thay đổi tên và mật khẩu của họ
 
 - Cabins
 
-  - The app has a table view with all cabins, showing the cabin photo, name, capacity, price, and current discount.
-  - Users able to update or delete a cabin, and create new cabins (including uploading a photo)
+  - Ứng dụng có chế độ xem bảng với tất cả cabins, hiển thị cabin photo, name, capacity, price, và current discount.
+  - Người dùng có thể update hoặc delete một cabin, và tạo cabins mới (bao gồm cả việc tải ảnh lên)
 
 - Bookings
 
-  - The app has a table view with all bookings, showing arrival and departure dates, status, and paid amount, as well as cabin and guest data.
-  - The booking status can "unconfirmed" (booked but not yet checked in), "checked in", or "checked out". The table filterable by this important status.
-  - Other booking data includes: the number of guests, number of nights, guest observations, whether they booked breakfast, breakfast price.
+  - Ứng dụng có chế độ xem bảng với tất cả bookings, hiển thị ngày đến và ngày rời đi (arrival and departure dates), status, và paid amount, cũng như dữ liệu về cabin và guest.
+  - Booking status có thể là "unconfirmed" (Đã book nhưng chưa check in), "checked in", hoặc "checked out". Bảng có thể lọc theo trạng thái quan trọng này.
+  - Dữ liệu booking khác bao gồm: số lượng khách (guests), số lượng đêm thuê (nights),chú ý của khách (guest observations),liệu họ có đặt bữa sáng hay không, giá bữa sáng (breakfast price).
 
 - Check In/Out
 
-  - Users able to delete, check-in, or check out a booking as the guest arrives (no editing necessary for now).
-  - Bookings may not have been paid yet on guest arrival. Therefore, on check-in, users need to accept payment (outside the app), and then confirm that payment has been received (inside the app).
-  - On check-in, the guest should have the ability to add breakfast for the entire stay, if they hadn't already.
+  - Người dùng có thể xóa, check-in hoặc check-out một booking khi khách đến
+  - Booking có thể chưa được thanh toán cho đến khi khách đến. Vì thế khi check-in, khách phải chấp nhận thanh toán (ngoài app) và nhân viên sẽ xác nhận xem đã nhận được thanh toán chưa (bên trong app).
+  - Khi nhận phòng, khách có thể thêm bữa sáng cho toàn bộ thời gian ở nếu chưa có.
 
 - Guests
 
-  - Guest data contain full name, email, national ID, nationality, and a country flag for easy identification.
+  - Dữ liệu khách bao gồm: full name, email, national ID, nationality, và country flag để dễ dàng nhận dạng.
 
 - Dashboard
 
-  - The initial app screen should be a dashboard, to display important information for the last 7, 30, or 90 days:
-    - A list of guests checking in and out on the current day. Users should be able to perform these tasks from here.
-    - Statistics on recent bookings, sales, check-ins, and occupancy rate.
-    - A chart showing all daily hotel sales, showing both "total" sales and "extras" sales (only breakfast at the moment).
-    - A chart showing statistics on stay durations, as this is an important metric for the hotel
+  - Màn hình app ban đầu phải là trang dashboard để hiển thị thông tin quan trọng trong 7, 30 hoặc 90 ngày qua:
+    - Danh sách khách check-in và check-out trong ngày hiện tại. Người dùng (nhân viên) sẽ có thể thực hiện các tác vụ này từ đây.
+    - Thống kê về lượng bookings, doanh số bán hàng (sales), lượt nhận phòng (check-ins) và tỷ lệ lấp đầy (occupancy rate) gần đây.
+    - Biểu đồ hiển thị tất cả doanh số bán hàng hàng ngày của khách sạn, hiển thị cả doanh số "tổng" và doanh số "phụ" (hiện tại chỉ có bữa sáng).
+    - Biểu đồ hiển thị số liệu thống kê về thời gian lưu trú (stay duration), vì đây là số liệu quan trọng đối với khách sạn
 
 - Settings
 
-  - Users able to define a few application-wide settings: breakfast price, min and max nights/booking, max guests/booking
+  - Người dùng có thể chỉnh sửa một số cài đặt trên toàn ứng dụng: breakfast price, min và max nights/booking, max guests/booking
 
 - App dark mode.
 
-## 💻 Technology Used
+## Demo 🖥️
 
-Red River Gorge Hotel Management Application is built using the following technologies and libraries:
+#### Login Page :
 
-- **React**: JavaScript library for UI development.
+![wildoasisLogin](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/4f0ae08e-1f06-47db-92e2-7576c3075cb4)
 
-- **Supabase**: Cloud database service for real-time and secure data storage.
+#### Dashboard Page
 
-- **@tanstack/react-query**: Data-fetching and state management library for React.
+![wildoasis1](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/9b814196-d9eb-4851-8249-dc1848271054)
 
-- **date-fns**: JavaScript date utility library for parsing, formatting, and manipulating dates.
+![wildoasis1 1](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/301983d1-6c69-46ff-9a1e-94abf4a7b7d5)
 
-- **react-router-dom**: Library for routing and navigation in React apps.
+#### Dark Theme Preview
 
-- **recharts**: Composable charting library for React.
+![wildoasisTheme](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/1a5fd644-3c63-403f-a1ec-e6454b868dd6)
 
-- **styled-components**: CSS-in-JS library for styling React components.
+![wildoasisTheme2](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/d9ae2111-44f2-4cd9-8137-dee41d46aa10)
 
-- **react-hot-toast**: Customizable toast notification library for React.
+#### Bookings Details
 
-- **react-icons**: Collection of customizable icons for React apps.
+![wildoasis2](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/71e559ad-03dc-48ee-ba89-04004d557d15)
 
-- **react-hook-form**: Library for form state management and validation in React.
+#### Cabins Details
 
-## 🛠️ Installation Steps:
+![wildoasis3](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/bd276ed2-1df6-44bd-b310-1b966e2069c9)
+
+#### Users Profile Update Page
+
+![wildoasis4](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/b281e182-04c5-4460-b1f0-a5bca0b7d99c)
+
+#### Create User
+
+![wildoasis5](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/cf372d7f-7e45-4463-8257-46037b110527)
+
+#### Application Settings Page
+
+![wildoasis6](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/a7051446-8a4a-474f-a93f-b5d963bd1ecd)
+
+## 💻 Công nghệ sử dụng
+
+Ứng dụng Quản lý Khách sạn Red River Gorge được xây dựng bằng các công nghệ và thư viện sau:
+
+- **React**: JavaScript library cho việc phát triển UI .
+
+- **Supabase**: Dịch vụ cơ sở dữ liệu đám mây để lưu trữ dữ liệu an toàn và real-time.
+
+- **@tanstack/react-query**: Thư viện quản lý state và fetching dữ liệu trong React.
+
+- **date-fns**: Thư viện tiện ích ngày tháng JavaScript để phân tích cú pháp, định dạng và thao tác ngày tháng.
+
+- **react-router-dom**: Thư viện để routing và navigation trong React.
+
+- **recharts**: Thư viện biểu đồ có thể kết hợp trong React.
+
+- **styled-components**: CSS-in-JS thư viện để tạo kiểu cho các componnet React.
+
+- **react-hot-toast**: Một thư viện Customizable toast notification trong React.
+
+- **react-icons**: Bộ sưu tập các customizable icons trong React.
+
+- **react-hook-form**: Thư viện để quản lý và xác thực state form trong React.
+
+## 🛠️ Các bước cài đặt:
 
 <p>1. Clone the repository</p>
 
@@ -104,14 +142,13 @@ npm run dev
 http://localhost:5173 or Your Local URL
 ```
 
-## Build With 🏗️
+## Xậy dựng với 🏗️
 
 1. Javascript, Typescript
 2. ReactJs, Redux, react-query (Front-end)
 3. Styled Component (Styling)
-4. NodeJs, ExpressJs (Back-end)
-5. Supabase (Database)
+4. Supabase (Database, backend)
 
 ## Deployed Version 🚀
 
-Live demo (Feel free to visit) 👉🏻 : https://red-river-gorge.vercel.app/
+Live demo 👉🏻 : https://red-river-gorge.vercel.app/
