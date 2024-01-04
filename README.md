@@ -1,13 +1,13 @@
 <div align="center">
 
-![logo-dark](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/496dd179-5fb5-4bae-ab16-153bf4a0f1b2)
+![logo-dark](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/496dd179-5fb5-4bae-ab16-153bf4a0f1b2)
 
-# Red River Gorge
+# Bao Long Hotel
 
 </div>
 
 <div style="text-align: justify;">
-Red River Gorge là một ứng dụng quản lý khách sạn thân thiện với người dùng. Ứng dụng này được thiết kế để quản lý hoạt động của khách sạn, bao gồm thống kê bán hàng, quản lý cabin, quản lý người dùng, quản lý đặt phòng và các tùy chọn tùy chỉnh khác nhau. Nó tích hợp tính năng xác thực, lưu trữ cơ sở dữ liệu và chế độ tối.
+Đây là một ứng dụng quản lý khách sạn thân thiện với người dùng. Ứng dụng này được thiết kế để quản lý hoạt động của khách sạn, bao gồm thống kê bán hàng, quản lý cabin, quản lý người dùng, quản lý đặt phòng và các tùy chọn tùy chỉnh khác nhau. Nó tích hợp tính năng xác thực, lưu trữ cơ sở dữ liệu và chế độ tối.
 
 Mục đích của dự án này là triển khai các kỹ năng <b>Javascript</b>, <strong>Truy vấn cơ sở dữ liệu</strong> nâng cao trong một ứng dụng web. Hơn nữa, giúp tôi nâng cao kiến thức về <strong>ReactJs</strong>.
 
@@ -67,43 +67,43 @@ Bạn có thể truy cập ứng dụng thông qua tài khoản sau:
 
 #### Login Page :
 
-![wildoasisLogin](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/4f0ae08e-1f06-47db-92e2-7576c3075cb4)
+![wildoasisLogin](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/4f0ae08e-1f06-47db-92e2-7576c3075cb4)
 
 #### Dashboard Page
 
-![wildoasis1](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/9b814196-d9eb-4851-8249-dc1848271054)
+![wildoasis1](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/9b814196-d9eb-4851-8249-dc1848271054)
 
-![wildoasis1 1](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/301983d1-6c69-46ff-9a1e-94abf4a7b7d5)
+![wildoasis1 1](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/301983d1-6c69-46ff-9a1e-94abf4a7b7d5)
 
 #### Dark Theme Preview
 
-![wildoasisTheme](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/1a5fd644-3c63-403f-a1ec-e6454b868dd6)
+![wildoasisTheme](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/1a5fd644-3c63-403f-a1ec-e6454b868dd6)
 
-![wildoasisTheme2](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/d9ae2111-44f2-4cd9-8137-dee41d46aa10)
+![wildoasisTheme2](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/d9ae2111-44f2-4cd9-8137-dee41d46aa10)
 
 #### Bookings Details
 
-![wildoasis2](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/71e559ad-03dc-48ee-ba89-04004d557d15)
+![wildoasis2](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/71e559ad-03dc-48ee-ba89-04004d557d15)
 
 #### Cabins Details
 
-![wildoasis3](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/bd276ed2-1df6-44bd-b310-1b966e2069c9)
+![wildoasis3](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/bd276ed2-1df6-44bd-b310-1b966e2069c9)
 
 #### Users Profile Update Page
 
-![wildoasis4](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/b281e182-04c5-4460-b1f0-a5bca0b7d99c)
+![wildoasis4](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/b281e182-04c5-4460-b1f0-a5bca0b7d99c)
 
 #### Create User
 
-![wildoasis5](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/cf372d7f-7e45-4463-8257-46037b110527)
+![wildoasis5](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/cf372d7f-7e45-4463-8257-46037b110527)
 
 #### Application Settings Page
 
-![wildoasis6](https://github.com/tuanngoc0298/red-river-gorge/assets/75868787/a7051446-8a4a-474f-a93f-b5d963bd1ecd)
+![wildoasis6](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/a7051446-8a4a-474f-a93f-b5d963bd1ecd)
 
 ## 💻 Công nghệ sử dụng
 
-Ứng dụng Quản lý Khách sạn Red River Gorge được xây dựng bằng các công nghệ và thư viện sau:
+Ứng dụng Quản lý Khách sạn Bao Long được xây dựng bằng các công nghệ và thư viện sau:
 
 - **React**: JavaScript library cho việc phát triển UI .
 
@@ -130,7 +130,7 @@ Bạn có thể truy cập ứng dụng thông qua tài khoản sau:
 <p>1. Clone the repository</p>
 
 ```
-git clone https://github.com/tuanngoc0298/red-river-gorge.git
+git clone https://github.com/tuanngoc0298/Bao-Long-hotel.git
 ```
 
 <p>2. Install the required dependencies </p>
@@ -160,4 +160,4 @@ http://localhost:5173 or Your Local URL
 
 ## Deployed Version 🚀
 
-Live demo 👉🏻 : https://red-river-gorge.vercel.app/
+Live demo 👉🏻 : https://Bao-Long-hotel.vercel.app/
