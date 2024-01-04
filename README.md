@@ -1,8 +1,8 @@
 <div align="center">
 
-![logo-light](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/97b636f6-abe8-44c2-89ce-833995f1df5a)
 
-# Bao Long Hotel
+<img src="https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/97b636f6-abe8-44c2-89ce-833995f1df5a" alt="logo" width="250" />
+
 
 </div>
 
