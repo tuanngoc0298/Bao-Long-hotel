@@ -1,6 +1,6 @@
 <div align="center">
 
-![logo-dark](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/496dd179-5fb5-4bae-ab16-153bf4a0f1b2)
+![logo-light](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/97b636f6-abe8-44c2-89ce-833995f1df5a)
 
 # Bao Long Hotel
 
@@ -67,39 +67,39 @@ Bạn có thể truy cập ứng dụng thông qua tài khoản sau:
 
 #### Login Page :
 
-![wildoasisLogin](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/4f0ae08e-1f06-47db-92e2-7576c3075cb4)
+![image](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/a53c32d4-517e-4249-bfb0-888c47f06a7e)
 
 #### Dashboard Page
 
-![wildoasis1](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/9b814196-d9eb-4851-8249-dc1848271054)
+![image](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/19e97335-92af-4a81-b71e-423a6ba65768)
 
-![wildoasis1 1](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/301983d1-6c69-46ff-9a1e-94abf4a7b7d5)
+![image](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/7d5f59f1-2206-4aed-85b0-a2b8c06296ec)
 
 #### Dark Theme Preview
 
-![wildoasisTheme](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/1a5fd644-3c63-403f-a1ec-e6454b868dd6)
+![image](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/57e10aa8-293a-4ffe-be43-4b23d0fb8707)
 
-![wildoasisTheme2](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/d9ae2111-44f2-4cd9-8137-dee41d46aa10)
+![image](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/bd0a9436-6ef1-4579-ab69-30f6e5946c8a)
 
 #### Bookings Details
 
-![wildoasis2](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/71e559ad-03dc-48ee-ba89-04004d557d15)
+![image](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/54b7cacf-272e-4c10-a723-2e695a8667a7)
 
 #### Cabins Details
 
-![wildoasis3](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/bd276ed2-1df6-44bd-b310-1b966e2069c9)
+![image](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/a64b5176-dc7a-4144-98cb-d9fd0d11cef9)
 
 #### Users Profile Update Page
 
-![wildoasis4](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/b281e182-04c5-4460-b1f0-a5bca0b7d99c)
+![image](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/5d97c262-55d5-4b77-9f5e-43d207ff9702)
 
 #### Create User
 
-![wildoasis5](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/cf372d7f-7e45-4463-8257-46037b110527)
+![image](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/6c73c81c-3d45-4bad-adb0-c93e4f928ae0)
 
 #### Application Settings Page
 
-![wildoasis6](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/a7051446-8a4a-474f-a93f-b5d963bd1ecd)
+![image](https://github.com/tuanngoc0298/Bao-Long-hotel/assets/75868787/fa691bcc-65c2-44d6-a276-f5f0fd45ad32)
 
 ## 💻 Công nghệ sử dụng
 
@@ -160,4 +160,4 @@ http://localhost:5173 or Your Local URL
 
 ## Deployed Version 🚀
 
-Live demo 👉🏻 : https://Bao-Long-hotel.vercel.app/
+Live demo 👉🏻 : https://bao-long-hotel.vercel.app/
